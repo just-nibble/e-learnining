@@ -1,2 +1,4 @@
+__pycache__/
 migrations/
-__pycache__
+.gitignore
+secret.py
